@@ -1,4 +1,4 @@
-# dataBaseExterno
+# Acessando banco de dados externo
 Acessando banco de dados externo Fluig
 
 Esse exemplo mostra como acessar um banco de dados externo no Fluig.
